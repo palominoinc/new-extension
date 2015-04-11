@@ -1,4 +1,4 @@
-<extension name="" webpalschematype="wpExtension" id="extercfmTt2q2KMU" modifiedBy="admin" modified="20150402.154734"><README webpalschematype="wpHtml" id="READgn5Fhr97p2kL" lang="any" modifiedBy="admin" modified="20150402.154716"><h1>New WebPal Extension</h1>
+<extension name="new-extension" webpalschematype="wpExtension" id="extercfmTt2q2KMU" modifiedBy="admin" modified="20150402.154734"><README webpalschematype="wpHtml" id="READgn5Fhr97p2kL" lang="any" modifiedBy="admin" modified="20150402.154716"><h1>New WebPal Extension</h1>
 
 <p>This is a new WebPal Extension. Edit this README to describe the extension, how to use it, and what changes have been made recently.</p>
 
